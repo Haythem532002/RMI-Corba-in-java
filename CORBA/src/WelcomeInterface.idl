@@ -1,0 +1,7 @@
+module WelcomeInterfaceModule
+{
+    interface WelcomeInterface
+    {
+        string echoWelcome();
+    };
+};

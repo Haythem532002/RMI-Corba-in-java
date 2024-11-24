@@ -1,0 +1,8 @@
+module CalculatorInterfaceModule {
+    interface CalculatorInterface
+    {
+        long addition(in long a,in long b);
+        long subtraction(in long a,in long b);
+        long multiplication(in long a,in long b);
+    };
+};
